@@ -7,6 +7,9 @@ En el local como en el remote
 Danos nuestro pi¡ull de cada dia
 Pedona nuestros conflictos
 Como tambien perdonas de otros
+no nos dejes caer en detached HEAD
+y libranos de DVN
+git commmit --amend
 
 
 
